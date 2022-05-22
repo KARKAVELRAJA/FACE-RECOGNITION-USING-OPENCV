@@ -13,3 +13,9 @@
 - Face Detection by its Algorithm (Fisherface Recognizer/LBPH (Local Binary Pattern Histogram) Face Recognizer)
 - Predicting face by loading Frame into the Model
 - Display the Recognized Class with its Accuracy
+
+-----
+
+### FILES
+
+haarcascade_frontalface_default.xml - used for Face Detection
